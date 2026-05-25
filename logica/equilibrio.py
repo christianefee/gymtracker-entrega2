@@ -22,3 +22,17 @@ class AnalizadorEquilibrio(AnalizadorBase):
         for musculo, volumen in volumen_por_musculo.items():
             distribucion[musculo] = round((volumen / total) * 100, 1)
         return distribucion
+
+    def detectar_desbalance(self) -> str:
+        distribucion: dict = self.calcular_distribucion()
+        musculos_bajos: list = []
+        for musculo, porcentaje in distribucion.items():
+            if porcentaje < 10.0:
+                musculos_bajos.append(musculo)
+        if len(musculos_bajos) == 0:
+            return "No se detectaron desbalances musculares. Distribucion equilibrada."
+        else:
+            return f"Grupos musculares descuidados: {', '.join(musculos_bajos)}. Se recomienda trabajarlos mas."
+
+    def analizar(self, *args) -> str:
+        return self.detectar_desbalance()
