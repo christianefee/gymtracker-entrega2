@@ -1,0 +1,30 @@
+{
+    "Christian": {
+        "nombre": "Christian",
+        "edad": 20,
+        "peso": 100.0,
+        "altura": 190.0,
+        "nivel": "avanzado"
+    },
+    "Ivan": {
+        "nombre": "Ivan",
+        "edad": 21,
+        "peso": 70.0,
+        "altura": 168.0,
+        "nivel": "principiante"
+    },
+    "Simon": {
+        "nombre": "Simon",
+        "edad": 22,
+        "peso": 65.0,
+        "altura": 168.0,
+        "nivel": "promedio"
+    },
+    "Mario": {
+        "nombre": "Mario",
+        "edad": 23,
+        "peso": 77.0,
+        "altura": 180.0,
+        "nivel": "principiante"
+    }
+}
