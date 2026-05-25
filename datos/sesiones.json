@@ -1,0 +1,305 @@
+[
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de pecho y triceps",
+        "fecha": "2025-03-01",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 100.0, "series": 5, "repeticiones": 5},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 80.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Press cerrado", "musculo": "triceps", "peso": 70.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Extension polea", "musculo": "triceps", "peso": 40.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de espalda y biceps",
+        "fecha": "2025-03-03",
+        "ejercicios": [
+            {"nombre": "Dominadas", "musculo": "espalda", "peso": 30.0, "series": 5, "repeticiones": 8},
+            {"nombre": "Remo barra", "musculo": "espalda", "peso": 100.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Jalon al pecho", "musculo": "espalda", "peso": 80.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl barra", "musculo": "biceps", "peso": 55.0, "series": 4, "repeticiones": 10}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de piernas",
+        "fecha": "2025-03-05",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 140.0, "series": 5, "repeticiones": 5},
+            {"nombre": "Peso muerto", "musculo": "piernas", "peso": 170.0, "series": 4, "repeticiones": 5},
+            {"nombre": "Prensa de piernas", "musculo": "piernas", "peso": 220.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl femoral", "musculo": "piernas", "peso": 60.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de hombros",
+        "fecha": "2025-03-07",
+        "ejercicios": [
+            {"nombre": "Press militar barra", "musculo": "hombros", "peso": 70.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Elevaciones laterales", "musculo": "hombros", "peso": 16.0, "series": 4, "repeticiones": 12},
+            {"nombre": "Face pull", "musculo": "espalda", "peso": 30.0, "series": 3, "repeticiones": 15},
+            {"nombre": "Encogimientos trapecio", "musculo": "hombros", "peso": 100.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de pecho y triceps 2",
+        "fecha": "2025-03-10",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 102.5, "series": 5, "repeticiones": 5},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 82.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Press cerrado", "musculo": "triceps", "peso": 72.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Extension polea", "musculo": "triceps", "peso": 42.5, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de espalda y biceps 2",
+        "fecha": "2025-03-12",
+        "ejercicios": [
+            {"nombre": "Dominadas", "musculo": "espalda", "peso": 32.5, "series": 5, "repeticiones": 8},
+            {"nombre": "Remo barra", "musculo": "espalda", "peso": 102.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Jalon al pecho", "musculo": "espalda", "peso": 82.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl barra", "musculo": "biceps", "peso": 57.5, "series": 4, "repeticiones": 10}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de piernas 2",
+        "fecha": "2025-03-14",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 142.5, "series": 5, "repeticiones": 5},
+            {"nombre": "Peso muerto", "musculo": "piernas", "peso": 172.5, "series": 4, "repeticiones": 5},
+            {"nombre": "Prensa de piernas", "musculo": "piernas", "peso": 222.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl femoral", "musculo": "piernas", "peso": 62.5, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de pecho y triceps 3",
+        "fecha": "2025-03-17",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 102.5, "series": 5, "repeticiones": 5},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 82.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Press cerrado", "musculo": "triceps", "peso": 72.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Extension polea", "musculo": "triceps", "peso": 42.5, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Christian",
+        "nombre": "Dia de piernas 3",
+        "fecha": "2025-03-21",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 145.0, "series": 5, "repeticiones": 5},
+            {"nombre": "Peso muerto", "musculo": "piernas", "peso": 175.0, "series": 4, "repeticiones": 5},
+            {"nombre": "Prensa de piernas", "musculo": "piernas", "peso": 225.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl femoral", "musculo": "piernas", "peso": 62.5, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de pecho",
+        "fecha": "2025-03-02",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 8},
+            {"nombre": "Flexiones", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 15}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de piernas",
+        "fecha": "2025-03-04",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Peso muerto rumano", "musculo": "piernas", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Extension cuadriceps", "musculo": "piernas", "peso": 30.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de espalda",
+        "fecha": "2025-03-06",
+        "ejercicios": [
+            {"nombre": "Jalon al pecho", "musculo": "espalda", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Remo polea", "musculo": "espalda", "peso": 35.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl mancuernas", "musculo": "biceps", "peso": 10.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de pecho 2",
+        "fecha": "2025-03-10",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 8},
+            {"nombre": "Flexiones", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 15}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de piernas 2",
+        "fecha": "2025-03-12",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 52.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Peso muerto rumano", "musculo": "piernas", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Extension cuadriceps", "musculo": "piernas", "peso": 30.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Ivan",
+        "nombre": "Dia de pecho 3",
+        "fecha": "2025-03-17",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 8},
+            {"nombre": "Flexiones", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 15}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de pecho y hombros",
+        "fecha": "2025-03-01",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 60.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Press militar barra", "musculo": "hombros", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Elevaciones laterales", "musculo": "hombros", "peso": 8.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de piernas",
+        "fecha": "2025-03-04",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 70.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Peso muerto", "musculo": "piernas", "peso": 80.0, "series": 3, "repeticiones": 8},
+            {"nombre": "Hip thrust", "musculo": "piernas", "peso": 90.0, "series": 3, "repeticiones": 10}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de espalda y biceps",
+        "fecha": "2025-03-06",
+        "ejercicios": [
+            {"nombre": "Dominadas", "musculo": "espalda", "peso": 0.0, "series": 4, "repeticiones": 8},
+            {"nombre": "Remo barra", "musculo": "espalda", "peso": 65.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl barra", "musculo": "biceps", "peso": 35.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Curl martillo", "musculo": "biceps", "peso": 16.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de pecho y hombros 2",
+        "fecha": "2025-03-10",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 62.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 52.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Press militar barra", "musculo": "hombros", "peso": 40.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Elevaciones laterales", "musculo": "hombros", "peso": 8.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de piernas 2",
+        "fecha": "2025-03-13",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 72.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Peso muerto", "musculo": "piernas", "peso": 82.5, "series": 3, "repeticiones": 8},
+            {"nombre": "Hip thrust", "musculo": "piernas", "peso": 92.5, "series": 3, "repeticiones": 10}
+        ]
+    },
+    {
+        "usuario": "Simon",
+        "nombre": "Dia de pecho y hombros 3",
+        "fecha": "2025-03-17",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 62.5, "series": 4, "repeticiones": 8},
+            {"nombre": "Press inclinado barra", "musculo": "pecho", "peso": 52.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Press militar barra", "musculo": "hombros", "peso": 42.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Elevaciones laterales", "musculo": "hombros", "peso": 8.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de pecho",
+        "fecha": "2025-03-02",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Cruces polea", "musculo": "pecho", "peso": 15.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de piernas",
+        "fecha": "2025-03-05",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 60.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Prensa de piernas", "musculo": "piernas", "peso": 100.0, "series": 3, "repeticiones": 12},
+            {"nombre": "Extension cuadriceps", "musculo": "piernas", "peso": 35.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de espalda",
+        "fecha": "2025-03-07",
+        "ejercicios": [
+            {"nombre": "Jalon al pecho", "musculo": "espalda", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Remo polea", "musculo": "espalda", "peso": 45.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Remo mancuerna", "musculo": "espalda", "peso": 20.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de pecho 2",
+        "fecha": "2025-03-10",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Cruces polea", "musculo": "pecho", "peso": 15.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de hombros",
+        "fecha": "2025-03-12",
+        "ejercicios": [
+            {"nombre": "Press militar barra", "musculo": "hombros", "peso": 30.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Elevaciones laterales", "musculo": "hombros", "peso": 7.0, "series": 3, "repeticiones": 12},
+            {"nombre": "Elevaciones frontales", "musculo": "hombros", "peso": 6.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de pecho 3",
+        "fecha": "2025-03-17",
+        "ejercicios": [
+            {"nombre": "Press banca", "musculo": "pecho", "peso": 50.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Fondos", "musculo": "pecho", "peso": 0.0, "series": 3, "repeticiones": 10},
+            {"nombre": "Cruces polea", "musculo": "pecho", "peso": 15.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de piernas 2",
+        "fecha": "2025-03-19",
+        "ejercicios": [
+            {"nombre": "Sentadilla", "musculo": "piernas", "peso": 62.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Prensa de piernas", "musculo": "piernas", "peso": 102.5, "series": 3, "repeticiones": 12},
+            {"nombre": "Extension cuadriceps", "musculo": "piernas", "peso": 35.0, "series": 3, "repeticiones": 12}
+        ]
+    },
+    {
+        "usuario": "Mario",
+        "nombre": "Dia de espalda 2",
+        "fecha": "2025-03-21",
+        "ejercicios": [
+            {"nombre": "Jalon al pecho", "musculo": "espalda", "peso": 52.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Remo polea", "musculo": "espalda", "peso": 47.5, "series": 3, "repeticiones": 10},
+            {"nombre": "Remo mancuerna", "musculo": "espalda", "peso": 20.0, "series": 3, "repeticiones": 12}
+        ]
+    }
+]
